@@ -14,7 +14,7 @@ CSS background properties:<br>
 Exercise<br>
 --------
 
-1.Background-color: The (background-color) property specifies the background color of an element.<br>
+1.Background-color: The &lt;background-color&gt; property specifies the background color of an element.<br>
 
 
 
@@ -45,10 +45,10 @@ Expected Output
         </body>
     </html>
 
-* Background color can also be in (paragraphs) (headings) and (divs).<br><br>
+* Background color can also be in &lt;p&gt;(paragraphs), &lt;h1&gt;(headings) and &lt;div&gt;(divs).<br><br>
 <br>
 
- 2. Background image: The (background-image) property specifies an image to use as the background of an element.<br>
+ 2. Background image: The &lt;background-image&gt; property specifies an image to use as the background of an element.<br>
  
  Tutorial Code
 -------------
@@ -77,7 +77,7 @@ Expected Output
     </html>
     
    <br><br>
-   3. Background image repeat: the background-image property repeats an image both horizontally and vertically.<br><br>
+   3. Background image repeat: the &lt;background-image&gt; property repeats an image both horizontally and vertically.<br><br>
    
  Tutorial Code
 -------------
@@ -113,7 +113,7 @@ Expected Output
       If you want your background image to cover the whole page, set background-size: cover; .<br><br>
 <br>
 
-4. Background image position:The position of the image is specified by the background-position property.<br>
+4. Background image position:The position of the image is specified by the &lt;background-position&gt; property.<br>
 
  Tutorial Code
 -------------
